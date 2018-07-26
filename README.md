@@ -1,1 +1,1 @@
-# ChargeSimulator
+# charge-simulator
